@@ -1,2 +1,4 @@
-# actividadGrupal
-Simulacro examen
+Franco Sosto
+Lautarto Lugones
+Enzo Perea
+Mauro Ridao
